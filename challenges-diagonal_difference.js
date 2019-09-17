@@ -3,7 +3,6 @@
  * @statement check challenges-diagonal_difference.pdf
  * @author Juan Carlos Cancela <cancela.juancarlos@gmail.com>
  */
-
 function diagonalDifference(arr) {
     let leftDiagonal = 0;
     let rightDiagonal = 0;
