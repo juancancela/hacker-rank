@@ -67,7 +67,6 @@ function arrayManipulation(n, queries) {
         arr[a - 1] += k;
         if (b < arr.length) arr[b] -= k;
     };
-    console.log('lala => ', arr);
     for (let j = 1; j < n; j++) arr[j] += arr[j - 1];
     for (let k = 0; k < arr.length; k++) max = Math.max(max, arr[k]);
     return max;
