@@ -3,7 +3,6 @@
  * @author Juan Carlos Cancela <cancela.juancarlos@gmail.com>
  * @status Works for inputs with n = 2pow30, fails to process n > than that.
  */
-
 const log = console.log;
 
 function decimal(a, b, n) {
