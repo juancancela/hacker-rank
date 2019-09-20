@@ -26,6 +26,9 @@
 * [Bubble Sort](sorting-ex_1-bubble_sort.js) ([Problem Statement](sorting-ex_1-bubble_sort.pdf))
 * [Mark and Toys](sorting-ex_2-marks_and_toys.js)([Problem Statement](sorting-ex_2-marks_and_toys.pdf))
 * [Comparator](sorting-ex_3-comparator.java)([Problem Statement](sorting-ex_3-comparator.pdf))
+* [Insertion Sort (Javascript Solution)](sorting-ex_4-insertion_sort.js)([Problem Statement](sorting-ex_4-insertion_sort.pdf))
+* [Insertion Sort (Python Solution)](sorting-ex_4-insertion_sort.py)([Problem Statement](sorting-ex_4-insertion_sort.pdf))
+* [Insertion Sort P2](sorting-ex_5-insertion_sort_2.js)([Problem Statement](sorting-ex_5-insertion_sort_2.pdf)) To be implemented!
 
 
 # Challenges

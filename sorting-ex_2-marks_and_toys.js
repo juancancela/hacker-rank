@@ -12,22 +12,18 @@ function maximumToys(prices, k) {
     };
 
     const _partition = (items, left, right) => {
-        let pivot = items[Math.floor((right + left) / 2)];
+        const pivot = items[Math.floor((right + left) / 2)];
         let i = left;
         let j = right;
         while (i <= j) {
-            while (items[i] < pivot) {
-                i++;
-            }
-            while (items[j] > pivot) {
-                j--;
-            }
+            while (items[i] < pivot) i++;
+            while (items[j] > pivot) j--;
             if (i <= j) {
                 _swap(items, i, j);
                 i++;
                 j--;
             }
-        }
+        } 
         return i;
     }
 
