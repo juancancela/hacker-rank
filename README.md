@@ -25,6 +25,7 @@
 # Sorting
 * [Bubble Sort](sorting-ex_1-bubble_sort.js) ([Problem Statement](sorting-ex_1-bubble_sort.pdf))
 * [Mark and Toys](sorting-ex_2-marks_and_toys.js)([Problem Statement](sorting-ex_2-marks_and_toys.pdf))
+* [Comparator](sorting-ex_3-comparator.java)([Problem Statement](sorting-ex_3-comparator.pdf))
 
 
 # Challenges

@@ -1,6 +1,6 @@
 /**
  * @title Mark and Toys
- * @statement check sorting-ex_2-marks_and_toys.js.pdf
+ * @statement check sorting-ex_2-marks_and_toys.pdf
  * @author Juan Carlos Cancela <cancela.juancarlos@gmail.com>
  */
 function maximumToys(prices, k) {
