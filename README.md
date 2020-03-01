@@ -32,6 +32,10 @@
 * [Insertion Sort P2](sorting-ex_5-insertion_sort_2.js)([Problem Statement](sorting-ex_5-insertion_sort_2.pdf))
 * [Correctness and the Loop Invariant](sorting-ex_6-correctness_and_the_loop_invariant.js)([Problem Statement](sorting-ex_6-correctness_and_the_loop_invariant.pdf))
 
+# Dictionaries and Hashmaps
+* [Ransom Note](dictionaries-ex_0-ransom-note.js) ([Problem Statement](dictionaries-ex_0-ransom-note.pdf))
+* [Two Strings](dictionaries-ex_1-two-strings.js) ([Problem Statement](dictionaries-ex_1-two-strings.pdf))
+
 
 # Challenges
 * [Euler 230](challenges-euler230.js) ([Problem Statement](challenges-euler230.pdf))
